@@ -39,7 +39,7 @@ git clone [https://github.com/ЗАМЕНИ_НА_СВОЙ_ЛОГИН/ЗАМЕНИ
 
 ### 2. Установи нужную библиотеку 📦
 
-```bash
+
 pip install pytelegrambotapi
 
 ```
