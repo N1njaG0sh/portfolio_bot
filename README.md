@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://t.me/@portfolio188127177_bot">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=🤖+Запусти+бота+в+Telegram!;👉+@ТВОЙ_ЮЗЕРНЕЙМ_БОТА" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%F0%9F%A4%96+%D0%97%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B8+%D0%B1%D0%BE%D1%82%D0%B0+%D0%B2+Telegram%21;%F0%9F%91%89+%40%D0%A2%D0%92%D0%9E%D0%99_%D0%AE%D0%97%D0%95%D0%A0%D0%9D%D0%95%D0%99%D0%9C_%D0%91%D0%9E%D0%A2%D0%90" alt="Typing SVG" />
   </a>
 </p>
 
